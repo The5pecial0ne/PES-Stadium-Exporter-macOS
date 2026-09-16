@@ -1,4 +1,4 @@
-# PES Stadium Exporter — macOS Setup
+# PES Stadium Exporter — macOS
 
 This is a macOS-compatible fork of the PES Stadium Exporter Blender addon.
 The original addon bundles Windows binaries and assumes Windows-style file
